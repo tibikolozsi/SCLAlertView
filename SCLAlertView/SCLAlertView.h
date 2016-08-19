@@ -81,6 +81,8 @@ typedef NS_ENUM(NSInteger, SCLAlertViewBackground)
     Transparent
 };
 
+@property (nonatomic, strong) UIImageView *backgroundView;
+
 /** Content view corner radius
  *
  * A float value that replaces the standard content viuew corner radius.

@@ -35,7 +35,6 @@
 @property (nonatomic, strong) UIView *circleView;
 @property (nonatomic, strong) UIView *circleViewBackground;
 @property (nonatomic, strong) UIView *contentView;
-@property (nonatomic, strong) UIImageView *backgroundView;
 @property (nonatomic, strong) UITapGestureRecognizer *gestureRecognizer;
 @property (nonatomic, strong) NSString *titleFontFamily;
 @property (nonatomic, strong) NSString *bodyTextFontFamily;
